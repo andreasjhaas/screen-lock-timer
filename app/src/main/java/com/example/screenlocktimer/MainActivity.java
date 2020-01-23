@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         public void run() {
             hasStarted = true;
             try{
-                do{
+                while(time > 0){
                     runOnUiThread(new Runnable(){
                         public void run() {
                             if(time > 60){
@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                     });
                     Thread.sleep(60000);
                     time --;
-                }while(time > 60);
+                }
 
                 dpm.lockNow();
 
