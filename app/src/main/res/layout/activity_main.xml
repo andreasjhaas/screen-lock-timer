@@ -31,7 +31,6 @@
         android:layout_marginTop="100dp"
         android:backgroundTint="@color/colorWidgets"
         android:fontFamily="@font/actor"
-        android:text="ToggleButton"
         android:textColor="@android:color/background_light"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
