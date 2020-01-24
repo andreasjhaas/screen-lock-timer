@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#43434E</color>
     <color name="colorAccent">#43434E</color>
     <color name="colorWidgets">#00695C</color>
+    <color name="colorWidgetsRed">#C62828</color>
+    <color name="colorWidgetsBlack">#000000</color>
 </resources>

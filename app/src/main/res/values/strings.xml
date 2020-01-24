@@ -2,4 +2,8 @@
     <string name="app_name">ScreenLockTimer</string>
     <string name="start_timer">Start Timer</string>
     <string name="get_deviceadmin">DeviceAdmin</string>
+    <string name="togglebutton_on">ON</string>
+    <string name="togglebutton_off">OFF</string>
+    <string name="togglebutton2_on">Stop Timer</string>
+    <string name="togglebutton2_off">Start Timer</string>
 </resources>
